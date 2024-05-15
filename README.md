@@ -6,7 +6,7 @@ I am Ezequiel Schneider, a computer science graduate from [Universidade Federal 
 [![Instagram Badge](https://img.shields.io/badge/-ez_schneider-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ez_schneider/)](https://instagram.com/ez_schneider)
 [![Gmail Badge](https://img.shields.io/badge/-ezequielschneiderr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielschneiderr@gmail.com)](mailto:ezequielschneiderr@gmail.com)
 
-## ⚡ Technologies
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/26a1.gif" width="30"> Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)

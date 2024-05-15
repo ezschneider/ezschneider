@@ -13,6 +13,7 @@ I am Ezequiel Schneider, a computer science graduate from [Universidade Federal 
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![Poetry](https://img.shields.io/badge/-Poetry-black?style=flat-square&logo=Poetry)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Jupyter](https://img.shields.io/badge/-JupyterNotebook-black?style=flat-square&logo=Jupyter)

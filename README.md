@@ -2,8 +2,8 @@
 
 I am Ezequiel Schneider, a computer science graduate from [Universidade Federal do Espírito Santo](https://www.ufes.br/). I am a tech enthusiast & an data analyst. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
+[![Kaggle Badge](https://img.shields.io/badge/-ezschneider-white?style=flat-square&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/ezschneider)](https://www.kaggle.com/ezschneider)
 [![Linkedin Badge](https://img.shields.io/badge/-Ezequiel_Schneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-schneider/)](https://www.linkedin.com/in/ezequiel-schneider/)
-[![Instagram Badge](https://img.shields.io/badge/-ez_schneider-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ez_schneider/)](https://instagram.com/ez_schneider)
 [![Gmail Badge](https://img.shields.io/badge/-ezequielschneiderr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielschneiderr@gmail.com)](mailto:ezequielschneiderr@gmail.com)
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/26a1.gif" width="30"> Technologies
